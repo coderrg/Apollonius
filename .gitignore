@@ -1,1 +1,7 @@
 secrets/
+cnn/data/final_dataset/
+cnn/data/dataset241-/
+cnn/data/images
+cnn/data/original_images/
+cnn/data/pastdatasets/
+
